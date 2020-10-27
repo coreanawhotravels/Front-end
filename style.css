@@ -1,0 +1,28 @@
+body {
+  background-color: #faf4ff;
+}
+
+h1 {
+  color: skyblue;
+  font-size: 100px;
+  text-align: center;
+}
+
+img:hover{
+  background-color: silver;
+}
+table {
+  table-layout: auto;
+  width: 120px;
+  border: 1px solid pink;
+  font-size: 20px;
+}
+
+td {
+  border: 1px solid pink;
+  text-align: center;
+}
+
+th {
+  border: 1px solid pink;
+}
